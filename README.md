@@ -1,1 +1,2 @@
-# PETSTORE_EVALUACION
+# QAInnovationLab
+Automation Team / For education purpose
